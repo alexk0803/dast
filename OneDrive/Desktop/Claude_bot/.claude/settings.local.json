@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install *)",
+      "Bash(python *)",
+      "Bash(/c/Users/alexk/AppData/Local/Python/pythoncore-3.14-64/python.exe -m pip install -r requirements.txt)",
+      "Bash(/c/msys64/ucrt64/bin/python -m pip install requests beautifulsoup4)",
+      "Bash(pip3 install *)",
+      "Bash(pip3 show *)",
+      "Bash(/c/Users/alexk/AppData/Local/Python/pythoncore-3.14-64/python.exe *)"
+    ]
+  }
+}
